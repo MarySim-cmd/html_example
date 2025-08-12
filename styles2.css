@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+}
+
+.green { 
+    color: green;
+}
+.red { 
+    color: red;
+}
+.blue { 
+    color: blue;
+}
+.purple{
+    color: purple;
+}
+
+.bold { 
+    font-weight: bold;
+}
+
+.xxsmall { 
+    font-size: xx-small;
+}
+.xsmall { 
+    font-size: x-small;
+}
+.small { 
+    font-size: small;
+}
+.medium { 
+    font-size: medium;
+}
+.large { 
+    font-size: large;
+}
+.xlarge { 
+    font-size: x-large;
+}
+.xxlarge { 
+    font-size: xx-large;
+}
+
+.colored-list {
+    padding-left: 20px;
+}
+.mixed-sizes {
+    line-height: 1.5;
+}

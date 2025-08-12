@@ -1,0 +1,40 @@
+body {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+i {
+    font-style: italic;
+}
+
+b {
+    font-weight: bold;
+}
+
+ul, ol {
+    padding-left: 30px;
+    margin: 10px 0;
+}
+
+li {
+    margin: 5px 0;
+}
